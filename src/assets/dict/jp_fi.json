@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"type": "kanji",
+		"jp_word": "猫",
+		"jp_reading": "ねこ",
+		"fi_word": "Kissa"
+	},
+	{
+		"id": 2,
+		"type": "word",
+		"jp_word": "海猫",
+		"jp_reading": "うみねこ",
+		"fi_word": "Japaninlokki"
+	},
+	{
+		"id": 2,
+		"type": "kanji",
+		"jp_word": "犬",
+		"jp_reading": "いぬ",
+		"fi_word": "Koira"
+	},
+	{
+		"id": 3,
+		"type": "kanji",
+		"jp_word": "鳥",
+		"jp_reading": "とり",
+		"fi_word": "Lintu"
+	},
+	{
+		"id": 4,
+		"type": "word",
+		"jp_word": "鳥天",
+		"jp_reading": "とりてん",
+		"fi_word": "Kanatempura"
+	},
+	{
+		"id": 5,
+		"type": "kanji",
+		"jp_word": "馬",
+		"jp_reading": "うま",
+		"fi_word": "Hevonen"
+	},
+	{
+		"id": 6,
+		"type": "word",
+		"jp_word": "馬力",
+		"jp_reading": "ばりき",
+		"fi_word": "Hevosvoima"
+	},
+	{
+		"id": 7,
+		"type": "word",
+		"jp_word": "日",
+		"jp_reading": "にち",
+		"fi_word": "Päivä"
+	}
+]

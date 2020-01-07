@@ -1,0 +1,21 @@
+{
+  "short_name": "Naritai",
+  "name": "Learn Japanese | Naritai",
+  "icons": [
+    {
+      "src": "/src/assets/img/icons-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/src/assets/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#4d71ff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4d71ff"
+}
